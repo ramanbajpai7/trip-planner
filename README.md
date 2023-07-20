@@ -9,7 +9,7 @@ Welcome to the Trip Planner website! This React-based application allows you to 
 - [Screenshot](#screenshot)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Deploying to GitHub](#deploying-to-github)
+- [Deployed URL](#deployed)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -57,35 +57,8 @@ npm start
 
 This will launch the website in your default web browser. You can now begin planning your trip by clicking on the places and indicating your interest in them.
 
-## Deploying to GitHub
-
-To deploy this website to GitHub, follow these steps:
-
-1. Create a new repository on GitHub.
-
-2. Update the remote URL of the repository:
-
-```bash
-git remote set-url origin https://github.com/your-username/your-repo.git
-```
-
-3. Build the production-ready code:
-
-```bash
-npm run build
-```
-
-4. Commit and push the changes to the GitHub repository:
-
-```bash
-git add .
-git commit -m "Deploying to GitHub Pages"
-git push origin master
-```
-
-5. Enable GitHub Pages in your repository settings, selecting the `gh-pages` branch.
-
-6. Your website will now be accessible at `https://your-username.github.io/your-repo`.
+## Deploying URL:
+https://trips-planner-app.netlify.app/
 
 ## Contributing
 
